@@ -22,7 +22,7 @@ https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/Transaction%
 ## Instruction to the Process of Acquiring the UTXO Figure:
 
 ### Overall Illustrasion:
-<img src="https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/WechatIMG938.png" width="1200" height="500"/>
+<img src="https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/figures/overall%20illustrasion.png" width="1200" height="600"/>
 
 ### After the pre-work, before the first code(UTXO_Automatic_Updater):
 1. Note down your project ID in the Google Cloud
@@ -42,8 +42,8 @@ https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/Transaction%
 4. Change the blue rectangle to your project ID
 
 ### After the first code, before the second code(UTXO_Visualizations):
-Note down the link to the raw file of "altercoinResultUTXOyyyy-mm-dd.csv" and "altercoinResultSTXOyyyy-mm-dd.csv" that saved in a public Github repository. If you followed the instruction in the illustrasion, the two files can be found along the path "Github repository-UTXO-altercoin_UTXO".
-Click the "Raw" bottom, the webpage will jump to the raw file form, which includes the link to the raw file.
+Note down the link to the raw file of "altercoinResultUTXOyyyy-mm-dd.csv" and "altercoinResultSTXOyyyy-mm-dd.csv" that saved in a public Github repository. If you followed the instruction in the overall illustrasion, the two files can be found along the path "Github repository-UTXO-altercoin_UTXO".
+Click the "Raw" bottom, the webpage will jump to the raw file page.
  <img src="https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/9461656493843_.pic.jpg" width="1200" height="300"/>
  
 Change the yellow rectangle to the date to be updated to (form: yyyy-mm-dd)
