@@ -2,13 +2,6 @@
 Paper: 
 ## Supplymentary resources, data, and code
 
-### Author List:
-
-Yulin Liu*, Haoyang Yu, and Luyao Zhang*
-
-\* corresponding authors
-Alphabetic order of surname
-
 ### Colab Notebook:
 Code for generating the result of .csv file that used for generating the UTXO figure:
 
