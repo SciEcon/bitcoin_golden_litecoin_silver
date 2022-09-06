@@ -4,9 +4,10 @@ Paper:
 
 ### Author List:
 
-Yulin Liu, Haoyang Yu, and Luyao Zhang
+Yulin Liu*, Haoyang Yu, and Luyao Zhang*
 
-(Alphabetic order of surname)
+\* corresponding authors
+Alphabetic order of surname
 
 ### Colab Notebook:
 Code for generating the result of .csv file that used for generating the UTXO figure:
