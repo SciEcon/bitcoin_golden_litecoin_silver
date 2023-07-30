@@ -1,4 +1,4 @@
-# Litecoin is Considered Silver to Bitcoin's Gold
+# Bitcoin Gold, Litecoin Silver: An Introduction to Cryptocurrency’s Valuation and Trading Strategy
 
 ## Part I Supplementary resources, data, and code
 
