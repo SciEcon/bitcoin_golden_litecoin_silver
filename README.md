@@ -1,8 +1,8 @@
 # Litecoin is Considered Silver to Bitcoin's Gold
-Paper: 
+
 ## Supplementary resources, data, and code
 
-## Dataset on Harvard Dataverse
+### Dataset on Harvard Dataverse
 
 Yu, Haoyang; Yutong Sun; Yulin Liu; Luyao Zhang, 2023, "Replication Data for: Bitcoin Gold, Litecoin Silver: An Introduction to Cryptocurrency’s Valuation and Trading Strategy", https://doi.org/10.7910/DVN/AFIM6U, Harvard Dataverse, V1, UNF:6:0xBxaVg2w8KFLw6GsvtpZg== [fileUNF]
 
@@ -38,7 +38,7 @@ https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/Transaction%
 ### Overall Illustration:
 <img src="https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/figures/Steps%20Illustrasion.png" width="1200" height="450"/>
 
-### After the pre-work, before the first code(UTXO_Automatic_Updater):
+### After the pre-work, before executing the first notebook (UTXO_Automatic_Updater):
 1. Type in your project ID in the Google Cloud
 
 2. Type in the altcoin's full name and brief name that to be researched
