@@ -39,11 +39,11 @@ https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/Transaction%
 <img src="https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/figures/Steps%20Illustrasion.png" width="1200" height="450"/>
 
 ### After the pre-work, before the first code(UTXO_Automatic_Updater):
-1. Note down your project ID in the Google Cloud
+1. Type in your project ID in the Google Cloud
 
-2. Note down the altcoin's full name and brief name that to be researched
+2. Type in the altcoin's full name and brief name that to be researched
 
-3. Determine the date to update the data to
+3. Determine and Type in the date to update the data to
 
 <img src="https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/figures/figure1.jpg" width="1200" height="400"/>
 
