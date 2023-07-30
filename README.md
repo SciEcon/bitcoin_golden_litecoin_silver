@@ -1,6 +1,6 @@
 # Litecoin is Considered Silver to Bitcoin's Gold
 Paper: 
-## Supplymentary resources, data, and code
+## Supplementary resources, data, and code
 
 ## Dataset on Harvard Dataverse
 
@@ -35,21 +35,21 @@ https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/Transaction%
 
 ## Instruction to the Process of Acquiring the UTXO and STXO data files:
 
-### Overall Illustrasion:
+### Overall Illustration:
 <img src="https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/figures/Steps%20Illustrasion.png" width="1200" height="450"/>
 
 ### After the pre-work, before the first code(UTXO_Automatic_Updater):
 1. Note down your project ID in the Google Cloud
 
-2. Note down the altercoin's full name and brief name that to be researched
+2. Note down the altcoin's full name and brief name that to be researched
 
 3. Determine the date to update the data to
 
 <img src="https://github.com/SciEcon/bitcoin_golden_litecoin_silver/blob/main/figures/figure1.jpg" width="1200" height="400"/>
 
-1. Change the red rectangle to the altercoin's full name
+1. Change the red rectangle to the altcoin's full name
 
-2. Change the yellow rectangle to the altercoin's brief name
+2. Change the yellow rectangle to the altcoin's brief name
 
 3. Change the green rectangle to the date to be updated to (form: y-m-d)
 
