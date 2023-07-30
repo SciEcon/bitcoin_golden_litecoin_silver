@@ -2,6 +2,23 @@
 Paper: 
 ## Supplymentary resources, data, and code
 
+## Dataset on Harvard Dataverse
+
+Yu, Haoyang; Yutong Sun; Yulin Liu; Luyao Zhang, 2023, "Replication Data for: Bitcoin Gold, Litecoin Silver: An Introduction to Cryptocurrency’s Valuation and Trading Strategy", https://doi.org/10.7910/DVN/AFIM6U, Harvard Dataverse, V1, UNF:6:0xBxaVg2w8KFLw6GsvtpZg== [fileUNF]
+
+```
+@data{DVN/AFIM6U_2023,
+author = {Yu, Haoyang and Yutong Sun and Yulin Liu and Luyao Zhang},
+publisher = {Harvard Dataverse},
+title = {{Replication Data for: Bitcoin Gold, Litecoin Silver: An Introduction to Cryptocurrency’s Valuation and Trading Strategy}},
+UNF = {UNF:6:0xBxaVg2w8KFLw6GsvtpZg==},
+year = {2023},
+version = {V1},
+doi = {10.7910/DVN/AFIM6U},
+url = {https://doi.org/10.7910/DVN/AFIM6U}
+}
+```
+
 ### Colab Notebook:
 Code for generating the result of .csv file that used for generating the UTXO figure:
 
